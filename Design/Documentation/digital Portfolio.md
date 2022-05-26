@@ -1,4 +1,4 @@
-## portfolio
+# portfolio
 I am creating this portfolio for an IT job with a potential employer I will use it to show them the range of my skill and how much experience I have.
 I will do that by showing my work from previous assignments using video's text and images.
 
@@ -11,13 +11,13 @@ contrast checker https://coolors.co/contrast-checker/071a21-ffffff
 
 https://paletton.com/#uid=13p0u0kgCbEavlyc8fNlo9Bqz6C
 
-I have chosen this colour scheme because the contrast with my chosen text is good for people with poor eyesight.
+I have chosen this colour scheme because it's contrast with my chosen text makes it easier to see for people with poor eyesight.
 
 this is the alternative colour scheme I haver chosen.
 
 ![image](../images/Alt%20Colour%20Scheme.JPG)
 
-I have chosen this because 
+I have chosen this because it's contrast with my chosen alternative text makes it easier to see for people who are visually impaired.
 
 https://paletton.com/#uid=1000u0kw0brlIlJr3gpHQ70Sq3g
 
@@ -28,7 +28,7 @@ the colour of my text will be white because it has good contrast with the colour
 I have chosen open as my font because  It’s incredibly readable in small sizes and also works great when printed in huge letters.
 ![image](../images/font.JPG)
 
-An alternative font i could have used is Roboto slab because It’s geometric form and friendly curves make it works really well for both headers and body texts.
+An alternative font i could have used is Roboto slab because It’s geometric form and friendly curves make it works really well for both headers and body texts. 
 ![image](../images/Alt%20Font%202.JPG)
 
 colour scheme - https://paletton.com/
@@ -60,3 +60,4 @@ This navigation table will tell you which pages link to which the &check; means 
 |Unit 3| X  | &check;   | X  |  X | X  | X  | X  | X  | &check;  |
 
 # Asset list
+
