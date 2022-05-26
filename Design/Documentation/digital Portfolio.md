@@ -2,8 +2,11 @@
 I am creating this portfolio for an IT job with a potential employer I will use it to show them the range of my skill and how much experience I have.
 I will do that by showing my work from previous assignments using video's text and images.
 
-# planning 
-First I will create some storyboards for my portfolio. Once the storyboards are complete i will m
+## planning 
+firstly I will need to choose a colour scheme and font for my portfolio then I will need to make a storyboard and plan the layout of my portfolio.
+I will create my portfolio with HTML and CSS.
+
+now that I have created my storyboard I will create my main paige. Once my main paige is done i will create 
 ## colour scheme
 contrast checker https://coolors.co/contrast-checker/071a21-ffffff
 
