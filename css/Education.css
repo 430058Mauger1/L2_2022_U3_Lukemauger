@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+a:Link {
+    
+    text-decoration: none;
+}
+p{
+    margin: 0px;
+    padding: 10px;
+}
+.top{
+height: 50px; width: 100%;
+background-color:#071A21;
+color: white;
+font-size: x-large;
+font-family: 'Open Sans', sans-serif;
+align-items: center;
+justify-content: space-around;
+position: relative;
+}
+.middle{
+    height: 900px; width: 100%;
+background-color: #112830;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+
+}
+.group1 {
+    height: 50%; width: 100%;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+.group2 {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.bottom{
+    height: 50px; width: 100%;
+background-color: #071A21;
+
+}
+.Units {
+    height: 300px;
+    width: 300px;
+    transition: width 1s, height 1s;
+}
+#U101 {
+    height: 100%;
+    width: 100%; 
+}
+#U112 {
+    height: 100%;
+    width: 100%;
+}
+#U121 {
+    height: 100%;
+    width: 100%;
+}
+#U124 {
+    height: 100%;
+    width: 100%;
+}
+#U125 {
+     height: 100%;
+     width: 100%;
+}
+.Units:hover {
+    width: 350px;
+    height: 350px;
+}
+#U13 {
+    height: 100%;
+    width: 100%; 
+}

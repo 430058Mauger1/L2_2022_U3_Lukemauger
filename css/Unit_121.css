@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    color: white;
+}
+a:Link {
+    
+    text-decoration: none;
+}
+p{
+    margin: 0px;
+    padding: 10px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;}
+.top{
+height: 50px; width: 100%;
+background-color:#071A21;
+color: white;
+font-size: x-large;
+font-family: 'Open Sans', sans-serif;
+align-items: center;
+}
+.middle{
+    height: 100%; width: 100%;
+background-color: #112830;
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+
+}
+.top-middle{
+    height: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.bottom-middle{
+    height: 95%;
+    width: 100%;
+    color: white;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100%;
+
+}
+.top-bottom-middle {
+    height: 5%;
+    width: 100%;
+    
+}
+.bottom-bottom-middle {
+    height: 95%;
+    width: 100%;
+    font-size: 100%;
+}
+#Oimages {
+    width: 20%;
+    height: 20%;
+
+}
+.bottom{
+    height: 50px; width: 100%;
+    background-color: #071A21;}
+.myimages {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.text {
+    width: 100%;
+    height: 10%;
+}
+.imagessecond {
+    width: 100%;
+    height: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.allimages {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.group1 {
+    width: 100%;
+    height: 50%;display:
+    flex;
+    justify-content: space-around;
+
+}
+.group2 {
+    width: 100%;
+    height: 50%;display:
+    flex;
+    justify-content: space-around;
+
+}

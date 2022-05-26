@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    margin: 0px;
+    padding: 10px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.top{
+height: 50px; width: 100%;
+background-color:#071A21;
+color: white;
+font-size: x-large;
+font-family: 'Open Sans', sans-serif;
+align-items: center;
+position: relative;
+}
+.middle{
+    height: 900px; width: 100%;
+background-color: #112830;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+.bottom{
+    height: 50px; width: 100%;
+background-color: #071A21;
+
+}
+.me {
+    height: 100%;
+    width: 100%;
+}
+.me-1 {
+    height: 5%;
+    width: 100%;
+    color: white;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+}
+.me-2 {
+    height: 10%;
+    width: 100%;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}

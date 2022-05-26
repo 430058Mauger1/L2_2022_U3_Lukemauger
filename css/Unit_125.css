@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    color: white;
+}
+a:Link {
+    
+    text-decoration: none;
+}
+p {
+    margin: 0px;
+    padding: 10px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: small;}
+.top{
+height: 50px; width: 100%;
+background-color:#071A21;
+color: white;
+font-size: x-large;
+font-family: 'Open Sans', sans-serif;
+align-items: center;
+justify-content: space-around;
+position: relative;
+}
+.middle{
+    height: 100%; width: 100%;
+background-color: #112830;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+
+}
+.bottom{
+    height: 50px; width: 100%;
+background-color: #071A21;}
+.slides {
+    height: 90%; width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+#image {
+    height:100%;
+    width: 40%;
+}
+.top-middle {
+    width: 100%;
+    height: 10%;
+}
+.two {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.three {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+}
+.four {
+       width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+}
+.five {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+}
