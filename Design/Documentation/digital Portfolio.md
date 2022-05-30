@@ -49,18 +49,18 @@ This is the storyboard for the education page.
 # navigation
 This navigation table will tell you which pages link to which the &check; means they will the X means they wont.
 
-|   |Home|Education|Achievements|Experience|Unit 112|Unit 121|Unit 124|Unit 125|Unit 3|
-|---|---|---|---|---|---|---|---|---|---|
-|Home|&check;|&check;|&check;| &check;  | X  | X  | X  | X  |  X |
-|Education| &check;  | &check;  | X  |  X |  &check; |  &check; |  &check; |  &check; |  &check; |
-|Achievements| &check;  |  X |  &check; | X  | X  |  X |  X |  X |  X |
-|Experience| &check;  |  X | X  |  &check; |  X | X | X  |  X |  X |
-|Unit 112|  X | &check;  | X  |  X | &check; | X  |  X | X  | X  |
-|Unit 112|  X | &check;   |  X |  X | X  |   X|  X |  X | X  |
-|Unit 121|  X |&check;    | X  |  X | X  |  &check; |  X |  X |  X |
-|Unit 124|  X | &check;   |  X |  X |  X |  X |  &check; |  X |  X |
-|Unit 125|  X | &check;   |  X |  X | X  |  X | X  |  &check; |  X |
-|Unit 3| X  | &check;   | X  |  X | X  | X  | X  | X  | &check;  |
-
+|   |Home|Education|Achievements|Experience|Unit 112|Unit 121|Unit 124|Unit 125|Unit 3|MOS|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Home|&check;|&check;|&check;| &check;  | X  | X  | X  | X  |  X |X|
+|Education| &check;  | &check;  | X  |  X |  &check; |  &check; |  &check; |  &check; |  &check; |&check;|
+|Achievements| &check;  |  X |  &check; | X  | X  |  X |  X |  X |  X |X|
+|Experience| &check;  |  X | X  |  &check; |  X | X | X  |  X |  X |X|
+|Unit 112|  X | &check;  | X  |  X | &check; | X  |  X | X  | X  |X|
+|Unit 112|  X | &check;   |  X |  X | X  |   X|  X |  X | X  |X|
+|Unit 121|  X |&check;    | X  |  X | X  |  &check; |  X |  X |  X |X|
+|Unit 124|  X | &check;   |  X |  X |  X |  X |  &check; |  X |  X |X|
+|Unit 125|  X | &check;   |  X |  X | X  |  X | X  |  &check; |  X |X|
+|Unit 3| X  | &check;   | X  |  X | X  | X  | X  | X  | &check;  |X|
+|MOS| X  |  &check;  | X  |  X | X  | X  | X  | X  | X |&check; |
 # Asset list
 
