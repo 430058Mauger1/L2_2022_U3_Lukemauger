@@ -31,3 +31,18 @@ background-color: #071A21;
 font-family: 'Open Sans', sans-serif;
 
 }
+.word {
+    height: 30%;
+    width: 100%;
+    background-color:black
+}
+.excel {
+    height: 30%;
+    width: 100%;
+    background-color:black
+}
+.powerpoint {
+    height: 30%;
+    width: 100%;
+    background-color:black
+}
