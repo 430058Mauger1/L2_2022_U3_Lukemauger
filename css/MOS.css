@@ -25,24 +25,56 @@ align-items: center;
 justify-content: space-around;
 
 }
+.middle-middle {
+height: 100%; width: 100%;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-wrap: wrap;
+}
 .bottom{
     height: 50px; width: 100%;
 background-color: #071A21;
 font-family: 'Open Sans', sans-serif;
 
 }
-.word {
+.Word {
     height: 30%;
     width: 100%;
-    background-color:black
 }
 .excel {
-    height: 30%;
+    height: 45%;
     width: 100%;
-    background-color:black
 }
 .powerpoint {
-    height: 30%;
+    height: 25%;
     width: 100%;
-    background-color:black
+}
+.title1 {
+    height: 10%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: larger;
+}
+.text1 {
+    height: 10%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: medium;
+}
+.image1 {
+    height: 80%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+}
+#image {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
 }
