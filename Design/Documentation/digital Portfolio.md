@@ -44,7 +44,7 @@ This is the story board for my Home page.
 
 This is the storyboard for the education page.
 
-![image](../images/education%20storyboard.PNG)
+![image](../images/education%20storyboard.jpg)
 
 # navigation
 This navigation table will tell you which pages link to which the &check; means they will the X means they wont.
