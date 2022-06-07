@@ -35,21 +35,35 @@ background-color: #071A21;
     width: 100%;
 }
 .me-1 {
-    height: 10%;
+    height: 5%;
     width: 100%;
     color: white;
     font-size: x-large;
     font-family: 'Open Sans', sans-serif;
 }
 .me-2 {
-    height: 10%;
+    height: 20%;
     width: 100%;
     color: white;
     font-family: 'Open Sans', sans-serif;
 }
 .achievements1 {
-    height: 10%;
+    height: 30%;
     width: 100%;
     color: white;
     font-size: medium;
     font-family: 'Open Sans', sans-serif;}
+
+    .hobbies{
+        width: 100%;
+        height: 5%;
+        color: white;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+    }
+    .hobbies2{
+     height: 35%;
+    width: 100%;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    }

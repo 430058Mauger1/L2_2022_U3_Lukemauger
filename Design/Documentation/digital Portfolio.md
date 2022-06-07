@@ -64,3 +64,11 @@ This navigation table will tell you which pages link to which the &check; means 
 |MOS| X  |  &check;  | X  |  X | X  | X  | X  | X  | X |&check; |
 # Asset list
 
+# feedback
+## tutor feedback
+### Lisa
+# student feedback
+### Daine-
+ website portfolio looks great nice colour scheme, very eay to navigate and find what you want to know, good design however on unit 125 with powerpoint things there is just to much information and a lot to read.
+### 
+# Design justification
