@@ -35,7 +35,7 @@ background-color: #071A21;
     width: 100%;
 }
 .me-1 {
-    height: 5%;
+    height: 10%;
     width: 100%;
     color: white;
     font-size: x-large;
@@ -47,3 +47,9 @@ background-color: #071A21;
     color: white;
     font-family: 'Open Sans', sans-serif;
 }
+.achievements1 {
+    height: 10%;
+    width: 100%;
+    color: white;
+    font-size: medium;
+    font-family: 'Open Sans', sans-serif;}
