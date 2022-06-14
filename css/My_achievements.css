@@ -2,6 +2,12 @@
     margin: 0px;
     padding: 0px;
 }
+h1{
+    margin: 0px;
+    padding: 10px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
 p{
     margin: 0px;
     padding: 10px;
@@ -35,7 +41,7 @@ background-color: #071A21;
     width: 100%;
 }
 .me-1 {
-    height: 5%;
+    height: 10%;
     width: 100%;
     color: white;
     font-size: x-large;
@@ -56,7 +62,7 @@ background-color: #071A21;
 
     .hobbies{
         width: 100%;
-        height: 5%;
+        height: 10%;
         color: white;
     font-size: x-large;
     font-family: 'Open Sans', sans-serif;
