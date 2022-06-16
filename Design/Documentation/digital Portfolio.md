@@ -67,15 +67,13 @@ This navigation table will tell you which pages link to which the &check; means 
 # feedback
 ## tutor feedback
 ### Lisa
-
 ![image](../images/index.before.png)
 # student feedback
 ### Mitchell
-
 Firstly, I approve of the chosen colour scheme, very simple and professional, the layout and the navigation is not complex and easy to navigate through, the animation for the intractable features is a good way of showcasing your coding skills. To improve this, I would add some explanation some more information for what the images are, pretty much add more context so that employers fully understand what they are looking at. Also, I would the add some explanation for what the images of your projects prove so that employers are aware of what skills these are displaying.
 ### My response to Mitchell's review
 
-### Daine-
+### Daine
  website portfolio looks great nice colour scheme, very eay to navigate and find what you want to know, good design however on unit 125 with powerpoint things there is just to much information and a lot to read.
 
 
