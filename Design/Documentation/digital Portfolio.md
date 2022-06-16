@@ -71,11 +71,13 @@ This navigation table will tell you which pages link to which the &check; means 
 # student feedback
 ### Mitchell
 Firstly, I approve of the chosen colour scheme, very simple and professional, the layout and the navigation is not complex and easy to navigate through, the animation for the intractable features is a good way of showcasing your coding skills. To improve this, I would add some explanation some more information for what the images are, pretty much add more context so that employers fully understand what they are looking at. Also, I would the add some explanation for what the images of your projects prove so that employers are aware of what skills these are displaying.
-### My response to Mitchell's review
 
 ### Daine
  website portfolio looks great nice colour scheme, very eay to navigate and find what you want to know, good design however on unit 125 with powerpoint things there is just to much information and a lot to read.
+### Patryk
+Portfolio looks fine, the colour scheme are too dark but fits with the colour text, navigation is easy to use and find what you need. I would prefer to add more text in 'Education' and explain more in details of what you've done there.
 
+### Aiden
+The font is really nice and the size is great to read from. There are more than 2 font types, and I think it would benefit from using only two fonts to keep simplistic look. The layout is very simple and easy to select where I want to go and easy to go back and fourth. It lacks eye candy which makes it not as interactive and colourful. It does look a bit bland with the colour scheme aswell. The website also lacks scaling, which doesn't look well on mobile phones or smaller screens to 1920x1080 monitors. 
 
-### 
 # Design justification

@@ -1,6 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
 }
 p{
     margin: 0px;
@@ -18,7 +20,7 @@ p{
     position: relative;
 }
 .middle{
-    height: 100%; width: 100%;
+    height: 1000px; width: 100%;
     background-color: #112830;
     display: flex;
     align-items: center;
@@ -35,27 +37,27 @@ p{
     height: 50%; width: 100%;
     display: flex; 
     justify-content: center;
-    flex-wrap: wrap;
 }
 .pages {
-    height: 50%;
+    height: 100%;
     width: 100%;
 }
 .storyboards {
     width: 100%;
     height: 40%;
+    display: flex;
+    justify-content: center;
 }
 .images{
     width: 100%;display: flex;
-    height: 60%;
+    height: 10%;
     flex-wrap: wrap;
 }
 #image{
-    width: 40%;
+    width: 20%;
     height: 100%;
     padding-left: 10px;
     display: flex;
-    flex-wrap: wrap;
 }
 .text1 {
     width: 100%;
