@@ -80,7 +80,7 @@ Excel Logo https://www.bing.com/images/search?view=detailV2&ccid=Y3PQTR5l&id=CD6
 All images were taken from my powerpoint.
 ### U121
 The Image of the church, phone and blue car were taken by me on my mobile phone.
-the image of the Red car, robot and tower were taken from magazines.
+The image of the Red car, robot and tower were taken from magazines.
 
 #### Red car image
 Magazine name: The ultimate history of the Porsche   
