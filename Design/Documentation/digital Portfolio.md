@@ -45,6 +45,17 @@ This is the storyboard for the education page.
 
 ![image](../images/education%20storyboard.PNG)
 
+# Browser Test
+I have checked that my portfolio works in two browser.
+
+## Microsoft edge test test
+![image](../images/Microsoft.test.JPG)
+
+## Chrome test
+![image](../images/Chrome.test.JPG)
+
+It works in both browsers all images, links and videos work.
+
 # navigation
 This navigation table will tell you which pages link to which the &check; means they will the X means they wont.
 
@@ -61,7 +72,9 @@ This navigation table will tell you which pages link to which the &check; means 
 |Unit 125|  X | &check;   |  X |  X | X  |  X | X  |  &check; |  X |X|
 |Unit 3| X  | &check;   | X  |  X | X  | X  | X  | X  | &check;  |X|
 |MOS| X  |  &check;  | X  |  X | X  | X  | X  | X  | X |&check; |
+
 # Asset list
+
 ## work Experience
 Cambridgeshire Community Reuse & Recycling Network Logo https://www.ccorrn.org.uk/
 Student portal work experience tracker https://cwa.ac.uk/student-login
