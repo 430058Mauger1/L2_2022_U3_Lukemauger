@@ -39,7 +39,6 @@ flex-wrap: wrap;
     display: flex;
     justify-content: flex-start;
     color: white;
-    font-size: x-large;
     font-family: 'Open Sans', sans-serif;
 
 }
@@ -47,11 +46,22 @@ flex-wrap: wrap;
     height: 95%;
     width: 100%;
     color: white;
-    font-size: x-large;
     font-family: 'Open Sans', sans-serif;
 
 }
-#Logos {
+.gradient{
+    width: 100%;
+    height: 50%;
+}
+#gradient {
+    height: 300px;
+    width: 300px;
+}
+.glow{
+    width: 50%;
+    height: 50%;
+}
+#glow {
     height: 300px;
     width: 300px;
 }
