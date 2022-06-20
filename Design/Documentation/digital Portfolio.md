@@ -144,4 +144,4 @@ In regards to Aidens review I have made sure the only fonts used are Open sans f
 And Times new roman for the buttons which were made in Photoshop.
 
 # Portfolio review
-The Finale design is suitable for the intended audience and purpose because it displays my skills, experience and education to potential employers it shows them what I have done and what I can do. one way my portfolio fulfills the intended purposes is with the "animation for the intractable features is a good way of showcasing your coding skills".
+The Finale design is suitable for the intended audience and purpose because it displays my skills, experience and education to potential employers it shows them what I have done and what I can do. one way my portfolio fulfills the intended purposes is with the "animation for the intractable features is a good way of showcasing your coding skills" and because Daine said "very easy to navigate and find what you want to know".
