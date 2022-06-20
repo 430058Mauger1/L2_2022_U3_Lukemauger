@@ -117,11 +117,6 @@ Photoshop Logo- https://www.bing.com/images/search?view=detailV2&ccid=E9a%2bq4hp
 
 
 # feedback
-
-## tutor feedback
-
-
-
 ## student feedback
 
 ### Mitchell
@@ -133,13 +128,20 @@ Firstly, I approve of the chosen colour scheme, very simple and professional, th
 Portfolio looks fine, the colour scheme are too dark but fits with the colour text, navigation is easy to use and find what you need. I would prefer to add more text in 'Education' and explain more in details of what you've done there.
 
 ### Aiden
-The font is really nice and the size is great to read from. There are more than 2 font types, and I think it would benefit from using only two fonts to keep simplistic look. The layout is very simple and easy to select where I want to go and easy to go back and fourth. It lacks eye candy which makes it not as interactive and colourful. It does look a bit bland with the colour scheme aswell. The website also lacks scaling, which doesn't look well on mobile phones or smaller screens to 1920x1080 monitors. 
-
+The font is really nice and the size is great to read from. There are more than 2 font types, and I think it would benefit from using only two fonts to keep simplistic look. The layout is very simple and easy to select where I want to go and easy to go back and fourth. It lacks eye candy which makes it not as interactive and colourful. It does look a bit bland with the colour scheme as well. The website also lacks scaling, which doesn't look well on mobile phones or smaller screens to 1920x1080 monitors. 
+### 
 # feedback review
 According to feedback Education need more text explaining its content. To do this I have added text to the Education page explaining what I did in college and what I did for my assignments.
 ![image](../images/edaddedtext.PNG)
 I also changed The Unit 125 page so now their isn't as much information instead there is a link to the presentation.
+
 ![image](../images/pow.link.png)
+
+In regards to Aidens review I have made sure the only fonts used are Open sans for the website.
+
+![image](../images/allopensans.JPG)
+
+And Times new roman for the buttons which were made in Photoshop.
 
 # Portfolio review
 The Finale design is suitable for the intended audience and purpose because it displays my skills, experience and education to potential employers it shows them what I have done and what I can do. one way my portfolio fulfills the intended purposes is with the "animation for the intractable features is a good way of showcasing your coding skills".
