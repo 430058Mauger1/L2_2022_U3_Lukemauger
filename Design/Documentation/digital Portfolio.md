@@ -3,7 +3,7 @@ I am creating this portfolio for an IT job with a potential employer I will use 
 I will do that by showing my work from previous assignments using video's text and images.
 ## Timeline
 ![image](../images/First%2C%20choose%20colour%20scheme%20and%20fonts..png)
-https://www.canva.com/design/play?type=TABQqtO7tYQ&category=tACZCg-26U0&schema=web-2
+
 
 
 ## colour scheme
@@ -32,8 +32,6 @@ I have chosen Open Sans as my font because  It’s incredibly readable in small 
 
 An alternative font i could have used is Roboto slab because It’s geometric form and friendly curves make it works really well for both headers and body texts. 
 ![image](../images/Alt%20Font%202.JPG)
-
-colour scheme - https://paletton.com/
 
 
 ## storyboards
