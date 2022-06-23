@@ -2,7 +2,9 @@
 I am creating this portfolio for an IT job with a potential employer I will use it to show them the range of my skill and how much experience I have.
 I will do that by showing my work from previous assignments using video's text and images.
 ## Timeline
-![image](../images/First%2C%20choose%20colour%20scheme%20and%20fonts..png)
+I created the timeline in photoshop
+
+![image](../images/timeline%20copy.png)
 
 
 
@@ -77,7 +79,8 @@ This navigation table will tell you which pages link to which the &check; means 
 Cambridgeshire Community Reuse & Recycling Network Logo https://www.ccorrn.org.uk/
 Student portal work experience tracker https://cwa.ac.uk/student-login
 ## My achievements
-Both certificate are mine and were taken from my camera.
+MOS certificate taken by Luke Mauger 09/06/22 with my mobile phone.
+Pearson BTEC certificate taken by Luke Mauger on 09/06/22 with my mobile phone.
 ## Education
 ### U13
 all screenshots were taken from my website file:///D:/College/L2_2022_U13_LukeM%20OD/doc/src/html/index.html
@@ -88,10 +91,19 @@ Powerpoint Logo https://www.bing.com/images/search?q=PowerPoint%20Logo&FORM=IQFR
 Excel Logo https://www.bing.com/images/search?view=detailV2&ccid=Y3PQTR5l&id=CD6437CE3A2CC18DC70C83B8D9FF5E9AE89F9895&thid=OIP.Y3PQTR5lZlJWQ8-IETFwoQHaHa&mediaurl=https%3a%2f%2fsolutionscenter.nethope.org%2fimages%2fsite_images%2fMicrosoft_Excel-logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6373d04d1e6566525643cf88113170a1%3frik%3dlZif6Jpe%252f9m4gw%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1200&q=excel+logo&simid=608047217768949222&FORM=IRPRST&ck=997B2B3166B7B417A4AE2409A5DD40EE&selectedIndex=7
 
 ### U125
-All images were taken from my powerpoint.
+Powerpoint image link
+
+https://www.popularmechanics.com/space/deep-space/a31223484/milky-way-warped/
+
+
+
+
+
+
 ### U121
-The Image of the church, phone and blue car were taken by me on my mobile phone.
-The image of the Red car, robot and tower were taken from magazines.
+Unedited Church picture- Taken by Luke Mauger on Mobile phone. 26/01/21
+Unedited car picture- Taken by Luke Mauger on mobile Phone 26/01/21
+Unedited phone Picture- Taken by Luke Mauger on mobile phone 26/01/21
 
 #### Red car image
 Magazine name: The ultimate history of the Porsche   
@@ -121,9 +133,8 @@ Page number 93
 ### U124
 Video I made and posted to YouTube https://youtu.be/aAgK1X0WnSA
 ### U112
-Both Logos were made by me in photoshop.
+Both Logos were made by Luke Mauger in photoshop in 2021.
 
-Photoshop Logo- https://www.bing.com/images/search?view=detailV2&ccid=E9a%2bq4hp&id=08E1358F8BB34F0EDF3E350B92460914FC459294&thid=OIP.E9a-q4hplfAgCimprt3LUwHaHO&mediaurl=https%3a%2f%2fcdn.freebiesupply.com%2flogos%2flarge%2f2x%2fphotoshop-cc-logo-png-transparent.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.13d6beab886995f0200a29a9aeddcb53%3frik%3dlJJF%252fBQJRpILNQ%26pid%3dImgRaw%26r%3d0&exph=2340&expw=2400&q=photoshop+logo&simid=608045624333966679&FORM=IRPRST&ck=6C644B4D372384B4AD80E2ABB60A0454&selectedIndex=3
 
 
 
