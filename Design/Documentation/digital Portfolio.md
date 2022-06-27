@@ -1,6 +1,9 @@
 # portfolio
 I am creating this portfolio for an IT job with a potential employer I will use it to show them the range of my skill and how much experience I have.
 I will do that by showing my work from previous assignments using video's text and images.
+
+## audience needs
+
 ## Timeline
 I created the timeline in photoshop
 
@@ -27,6 +30,9 @@ the colour of my text will be white because it has good contrast with the colour
 
 I have chosen Open Sans as my font because  It’s incredibly readable in small sizes and also works great when printed in huge letters.
 ![image](../images/font.JPG)
+
+The second text I will be using for buttons is Times new roman because it is the world’s go-to font for official looking documents, has been found to be the most trusted typeface among the UK public.
+![image](../images/tnr.JPG)
 
 
 
@@ -64,7 +70,7 @@ I have checked that my portfolio works in two browser.
 ## Chrome test
 ![image](../images/Chrome.test.JPG)
 
-It works in both browsers all images, links and videos work.
+My digital portfolio works in both browsers and all images, links and videos work and the navigation is smooth and consistent.
 
 # navigation
 This navigation table will tell you which pages link to which the &check; means they will the X means they wont.
@@ -149,7 +155,7 @@ Both Logos were made by Luke Mauger in photoshop in 2021.
 
 
 
-
+# Justification
 # feedback
 ## student feedback
 
