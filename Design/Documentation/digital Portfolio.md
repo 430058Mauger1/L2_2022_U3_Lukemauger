@@ -17,11 +17,7 @@ https://paletton.com/#uid=13p0u0kgCbEavlyc8fNlo9Bqz6C
 
 I have chosen this colour scheme because it's contrast with my chosen text makes it easier to see for people with poor eyesight.
 
-this is the alternative colour scheme I haver chosen.
 
-![image](../images/Alt%20Colour%20Scheme.JPG)
-
-I have chosen this because it's contrast with my chosen alternative text makes it easier to see for people who are visually impaired.
 
 https://paletton.com/#uid=1000u0kw0brlIlJr3gpHQ70Sq3g
 
@@ -32,8 +28,7 @@ the colour of my text will be white because it has good contrast with the colour
 I have chosen Open Sans as my font because  It’s incredibly readable in small sizes and also works great when printed in huge letters.
 ![image](../images/font.JPG)
 
-An alternative font i could have used is Roboto slab because It’s geometric form and friendly curves make it works really well for both headers and body texts. 
-![image](../images/Alt%20Font%202.JPG)
+
 
 
 ## storyboards
@@ -44,6 +39,21 @@ This is the story board for my Home page.
 This is the storyboard for the education page.
 
 ![image](../images/education%20storyboard.PNG)
+
+# Alternative solutions
+## alternative text
+An alternative font i could have used is Roboto slab because It’s geometric form and friendly curves make it works really well for both headers and body texts. 
+![image](../images/Alt%20Font%202.JPG)
+## Alternative colour scheme
+this is the alternative colour scheme I haver chosen.
+
+![image](../images/Alt%20Colour%20Scheme.JPG)
+
+I have chosen this because it's contrast with my chosen alternative text makes it easier to see for people who are visually impaired.
+
+## alternative storyboard
+this is the alternative storyboard created with the alternative solutions.
+![image](../images/alternative%20design.png)
 
 # Browser Test
 I have checked that my portfolio works in two browser.
@@ -87,7 +97,9 @@ all screenshots were taken from my website file:///D:/College/L2_2022_U13_LukeM%
 and all storyboards were made by me using photoshop.
 ### MOS
 Word Logo https://toppng.com/show_download/101079/word-logo/large
+
 Powerpoint Logo https://www.bing.com/images/search?q=PowerPoint%20Logo&FORM=IQFRBA&id=413027F53D10397069E7DB21BB8EBFFDB4DE1250
+
 Excel Logo https://www.bing.com/images/search?view=detailV2&ccid=Y3PQTR5l&id=CD6437CE3A2CC18DC70C83B8D9FF5E9AE89F9895&thid=OIP.Y3PQTR5lZlJWQ8-IETFwoQHaHa&mediaurl=https%3a%2f%2fsolutionscenter.nethope.org%2fimages%2fsite_images%2fMicrosoft_Excel-logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6373d04d1e6566525643cf88113170a1%3frik%3dlZif6Jpe%252f9m4gw%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1200&q=excel+logo&simid=608047217768949222&FORM=IRPRST&ck=997B2B3166B7B417A4AE2409A5DD40EE&selectedIndex=7
 
 ### U125
