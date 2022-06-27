@@ -3,7 +3,19 @@ I am creating this portfolio for an IT job with a potential employer I will use 
 I will do that by showing my work from previous assignments using video's text and images.
 
 ## audience needs
+ the audience needs the necessary content like
++ your education
++ any achievements
++ past experience
 
+My webpage should have a fast and responsive layout that should be clean and quick to load because I want . 
+
+It needs a working Navigation that is simple and understandable so customers can easily find what they want. 
+
+It's colour scheme needs to fit well together and with the site It also needs a good contrast ratio otherwise people with visual disabilities will have a hard time navigating and using my site. 
+
+My website should also contain a video or other interactive content because 80% of all traffic online is video traffic meaning without this content people will lose interest in my site and the business who hired me could potentially
+lose customers.
 ## Timeline
 I created the timeline in photoshop
 
@@ -45,6 +57,10 @@ This is the story board for my Home page.
 This is the storyboard for the education page.
 
 ![image](../images/education%20storyboard.PNG)
+
+This is the storyboard for the experience and achievements pages.
+
+![image](../images/experience.achievements%20sb.png)
 
 # Alternative solutions
 ## alternative text
