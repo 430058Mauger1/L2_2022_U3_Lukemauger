@@ -2,18 +2,27 @@
 I am creating this portfolio for an IT job with a potential employer I will use it to show them the range of my skill and how much experience I have.
 I will do that by showing my work from previous assignments using video's text and images.
 
-## audience needs
- the audience needs the necessary content like:
-+ your education
-+ any achievements
-+ past experience
+## audience
+the audience for my digital portfolio are any potential employers who are interested in hiring me for my skills.
+## Their needs
+ they need the necessary content like:
++ My Education and qualifications
++ My achievements and skills
++ My experience
 
-they need to be able to not only read but see me past achievements using images, videos and text this
+They need my Education and qualifications because they clearly show potential employers how qualified I am for what they want.
 
+They need my achievements and skills because they show potential employers how skilled I am and if I am skilled enough for the job they are hiring me for.
+
+Potential employers also need to see how experienced I to determine how well I can do the job they want to hire me for.
+
+My portfolio also needs to be accessible so any potential employers wont have any problems finding any information about me they need.
+
+My portfolio needs to have a fast and responsive layout so that any potential employers can quickly navigate my portfolio to find any information about me they need.
 
 
 ## Timeline
-I created the timeline in photoshop
+I created the timeline in photoshop.
 
 ![image](../images/timeline%20copy.png)
 
@@ -26,7 +35,7 @@ contrast checker https://coolors.co/contrast-checker/071a21-ffffff
 
 https://paletton.com/#uid=13p0u0kgCbEavlyc8fNlo9Bqz6C
 
-I have chosen this colour scheme because it's contrast with my chosen text makes it easier to see for people with poor eyesight.
+I have chosen this colour scheme because it's contrast with my chosen text colour makes it easier to see for people with poor eyesight.
 
 
 
@@ -60,7 +69,7 @@ This is the storyboard for the experience and achievements pages.
 
 # Alternative solutions
 ## alternative text
-An alternative font i could have used is Roboto slab because It’s geometric form and friendly curves make it works really well for both headers and body texts. 
+An alternative font I could have used is Roboto slab because It’s geometric form and friendly curves make it works really well for both headers and body texts. 
 ![image](../images/Alt%20Font%202.JPG)
 ## Alternative colour scheme
 this is the alternative colour scheme I haver chosen.
@@ -167,11 +176,14 @@ Both Logos were made by Luke Mauger in photoshop in 2021.
 
 
 
-# Justification
+# Design Justification
+My portfolio Fulfils the stated purpose because it Clearly display information my education and qualifications, past experience, skills and achievements and information about me.
+
+It will meet the needs of the audience because it has a fast and responsive layout 
 # feedback
 ## Tutor feedback
 ## Lisa
-Your portfolio looks very professional, detailing a lot of your great work and achievements. What I would say is, be carfeful with your capitalisation on your names. The colours and font work well together along with the functionality of your protfolio, well done. Why are the circles on the bottom line next to each other whereas the others have space between?
+Your portfolio looks very professional, detailing a lot of your great work and achievements. What I would say is, be careful with your capitalization on your names. The colours and font work well together along with the functionality of your protfolio, well done. Why are the circles on the bottom line next to each other whereas the others have space between?
 ## student feedback
 
 ### Mitchell
@@ -206,7 +218,7 @@ I have corrected the capitals of the names.
 
 ![images](../images/Capitals.PNG)
 
-The reason they are in two seperate lines is because they from different years of education one for my first year and one for the second. Microsoft office is in the second year becasue I am currently studying it in my second year.
+The reason they are in two separate lines is because they from different years of education one for my first year and one for the second. Microsoft office is in the second year because I am currently studying it in my second year.
 
 
 # Portfolio review
