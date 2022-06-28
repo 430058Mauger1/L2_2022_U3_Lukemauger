@@ -3,19 +3,15 @@ I am creating this portfolio for an IT job with a potential employer I will use 
 I will do that by showing my work from previous assignments using video's text and images.
 
 ## audience needs
- the audience needs the necessary content like
+ the audience needs the necessary content like:
 + your education
 + any achievements
 + past experience
 
-My webpage should have a fast and responsive layout that should be clean and quick to load because I want . 
+they need to be able to not only read but see me past achievements using images, videos and text this
 
-It needs a working Navigation that is simple and understandable so customers can easily find what they want. 
 
-It's colour scheme needs to fit well together and with the site It also needs a good contrast ratio otherwise people with visual disabilities will have a hard time navigating and using my site. 
 
-My website should also contain a video or other interactive content because 80% of all traffic online is video traffic meaning without this content people will lose interest in my site and the business who hired me could potentially
-lose customers.
 ## Timeline
 I created the timeline in photoshop
 
@@ -173,6 +169,9 @@ Both Logos were made by Luke Mauger in photoshop in 2021.
 
 # Justification
 # feedback
+## Tutor feedback
+## Lisa
+Your portfolio looks very professional, detailing a lot of your great work and achievements. What I would say is, be carfeful with your capitalisation on your names. The colours and font work well together along with the functionality of your protfolio, well done. Why are the circles on the bottom line next to each other whereas the others have space between?
 ## student feedback
 
 ### Mitchell
@@ -187,17 +186,28 @@ Portfolio looks fine, the colour scheme are too dark but fits with the colour te
 The font is really nice and the size is great to read from. There are more than 2 font types, and I think it would benefit from using only two fonts to keep simplistic look. The layout is very simple and easy to select where I want to go and easy to go back and fourth. It lacks eye candy which makes it not as interactive and colourful. It does look a bit bland with the colour scheme as well. The website also lacks scaling, which doesn't look well on mobile phones or smaller screens to 1920x1080 monitors. 
 ### 
 # feedback review
+
+## Patryk
 According to feedback Education need more text explaining its content. To do this I have added text to the Education page explaining what I did in college and what I did for my assignments.
 ![image](../images/edaddedtext.PNG)
-I also changed The Unit 125 page so now their isn't as much information instead there is a link to the presentation.
 
+## Daine
+I also changed The Unit 125 page so now their isn't as much information instead there is a link to the presentation.
 ![image](../images/pow.link.png)
 
-In regards to Aidens review I have made sure the only fonts used are Open sans for the website.
-
+# Aiden
+In regards to Aidens review I have made sure the only fonts used are Open sans for the website and Times New Roman for the buttons which were made in Photoshop.
 ![image](../images/allopensans.JPG)
 
-And Times new roman for the buttons which were made in Photoshop.
+## Lisa
+I have corrected the capitals of the names.
+
+![image](../images/uncap.PNG)
+
+![images](../images/Capitals.PNG)
+
+The reason they are in two seperate lines is because they from different years of education one for my first year and one for the second. Microsoft office is in the second year becasue I am currently studying it in my second year.
+
 
 # Portfolio review
 The Finale design is suitable for the intended audience and purpose because it displays my skills, experience and education to potential employers it shows them what I have done and what I can do. one way my portfolio fulfills the intended purposes is with the "animation for the intractable features is a good way of showcasing your coding skills" and because Daine said "very easy to navigate and find what you want to know".
