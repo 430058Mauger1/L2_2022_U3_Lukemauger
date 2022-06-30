@@ -20,6 +20,8 @@ My portfolio also needs to be accessible so any potential employers wont have an
 
 My portfolio needs to have a fast and responsive layout so that any potential employers can quickly navigate my portfolio to find any information about me they need.
 
+My portfolio also needs to look professional which means it cannot have any mistakes or potential employers might not want to employ me.
+
 
 ## Timeline
 I created the timeline in photoshop.
@@ -121,7 +123,7 @@ Pearson BTEC certificate taken by Luke Mauger on 09/06/22 with my mobile phone.
 ## Education
 ### U13
 all screenshots were taken from my website file:///D:/College/L2_2022_U13_LukeM%20OD/doc/src/html/index.html
-and all storyboards were made by me using photoshop.
+and all storyboards were made by Luke Mauger using photoshop.
 ### MOS
 Word Logo https://toppng.com/show_download/101079/word-logo/large
 
@@ -242,7 +244,28 @@ The Finale design is suitable for the intended audience and purpose because it d
 
 Another way my portfolio meets the audience needs is because it is accessible in multiple browsers I know it has accomplished this because I have tested my portfolio in Google Chrome and Microsoft Edge this means that potential employers that use different browsers can use my portfolio correctly.
 
-Another way my portfolio meets the audience needs is with its fast and responsive layout my portfolio has this because Daine said "all the links work and it's very eay to navigate and find what you want to know" and aiden said "The layout is very simple and easy to select where I want to go and easy to go back and fourth".
+Another way my portfolio meets the audience needs is with its fast and responsive layout my portfolio has this because Daine said "all the links work and it's very eay to navigate and find what you want to know" and Aiden said "The layout is very simple and easy to select where I want to go and easy to go back and fourth".
 
 # Evaluation
 ## Changes made
+
+## Education Text
+One of the changes I made to my portfolio was that I added text to the education pages This change was good because the audience needs require potential employers have as much information about my education, achievements and experience as possible which this achieves by adding more information.
+
+## Unit 125 powerpoint change
+For this change I replaced a long and hard to read webpage full of information with a link to my presentation on PowerPoint this fit the audience needs because it made it easier to find all of the information potential employers need to judge me and see if i am qualified enough for the job they want me for.
+
+## Capital Change
+For this change I corrected the names for Word, PowerPoint, Excel and Adobe because they were uncapitalized this meets the audience needs because it gets rid of mistakes which could cost me a job with any potential employers.
+
+# improvements
+
+## Achievements Improvements
+One improvement for my portfolio would be to add more content about me and my achievements I do not have much there now because I haven't
+ Accomplished much one way i could do this is to do more activities in my free time.
+
+## Mobile optimization
+Another improvement would be to optimize my portfolio for mobile and smaller devices this would make my portfolio more accessible to any potential employers and it would show them my skill's in website development.
+
+## Image and structure
+Another improvement would be to add carousels or another feature that can de-clutter my portfolio because in my opinion there are lots of images and text on each page which makes it harder to structure so by using a carousel I can have multiple images in a single spot which allows for more text.
