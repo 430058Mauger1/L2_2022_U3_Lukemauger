@@ -177,20 +177,26 @@ Both Logos were made by Luke Mauger in photoshop in 2021.
 
 
 # Design Justification
-My portfolio Fulfils the stated purpose because it Clearly display information my education and qualifications, past experience, skills and achievements and information about me.
+My portfolio Fulfils the stated purpose because it Clearly display information my education and qualifications, past experience, skills and achievements and information about me I know it has this because lisa says "detailing a lot of your great work and achievements".
 
-It will meet the needs of the audience because it has a fast and responsive layout 
+It will meet the needs of the audience because it has a fast and responsive layout I know my portfolio has accomplished this because Daine said that "all the links work and it's very eay to navigate" and Mitchell says "the animation for the intractable features is a good way of showcasing your coding skills" this tells me that all of my features work correctly and that the links work allowing potential employers to easily navigate through my portfolio.
+
+Another way it meets the audience needs is because it is accessible I know that it is accessible because I have tested my portfolio in multiple browsers and found that it works meaning any potential employers can access it on different browsers.
+
+
 # feedback
+
 ## Tutor feedback
+
 ## Lisa
-Your portfolio looks very professional, detailing a lot of your great work and achievements. What I would say is, be careful with your capitalization on your names. The colours and font work well together along with the functionality of your protfolio, well done. Why are the circles on the bottom line next to each other whereas the others have space between?
+Your portfolio looks very professional, detailing a lot of your great work and achievements. What I would say is, be careful with your capitalization on your names. The colours and font work well together along with the functionality of your portfolio, well done. Why are the circles on the bottom line next to each other whereas the others have space between?
 ## student feedback
 
 ### Mitchell
 Firstly, I approve of the chosen colour scheme, very simple and professional, the layout and the navigation is not complex and easy to navigate through, the animation for the intractable features is a good way of showcasing your coding skills. To improve this, I would add some explanation some more information for what the images are, pretty much add more context so that employers fully understand what they are looking at. Also, I would the add some explanation for what the images of your projects prove so that employers are aware of what skills these are displaying.
 
 ### Daine
- website portfolio looks great nice colour scheme, very eay to navigate and find what you want to know, good design however on unit 125 with powerpoint things there is just to much information and a lot to read.
+ website portfolio looks great nice colour scheme, all the links work and it's very eay to navigate and find what you want to know, good design however on unit 125 with powerpoint things there is just to much information and a lot to read.
 ### Patryk
 Portfolio looks fine, the colour scheme are too dark but fits with the colour text, navigation is easy to use and find what you need. I would prefer to add more text in 'Education' and explain more in details of what you've done there.
 
@@ -201,25 +207,42 @@ The font is really nice and the size is great to read from. There are more than 
 
 ## Patryk
 According to feedback Education need more text explaining its content. To do this I have added text to the Education page explaining what I did in college and what I did for my assignments.
+
 ![image](../images/edaddedtext.PNG)
+
+I applied this change because it gives any potential employers more information about me and it makes it easier to find the content about me they need.
 
 ## Daine
 I also changed The Unit 125 page so now their isn't as much information instead there is a link to the presentation.
+
 ![image](../images/pow.link.png)
 
+I decided to apply this change it shows employers my past works which shows them what I am capable of and what I can achieve it also shows them that I am qualified enough to use powerpoint.
 # Aiden
 In regards to Aidens review I have made sure the only fonts used are Open sans for the website and Times New Roman for the buttons which were made in Photoshop.
+
 ![image](../images/allopensans.JPG)
 
+Aiden has also said that it lacks "eye candy" which makes my portfolio bland which in my opinion is a good thing because my portfolio is meant to have a professional feel which I think is ruined by too many colours and features.
+
+however he also mentioned scaling which means my portfolio doesn't work as well on mobile phones and small monitors. I agree with this feedback which is why I will implement it in the next version of my portfolio.
+
 ## Lisa
-I have corrected the capitals of the names.
+I have corrected the capitals of the names. I applied this change because i didn't want any potential employers to see any mistakes I have made.
 
 ![image](../images/uncap.PNG)
 
 ![images](../images/Capitals.PNG)
 
-The reason they are in two separate lines is because they from different years of education one for my first year and one for the second. Microsoft office is in the second year because I am currently studying it in my second year.
-
+I have also added a space between the MOS and unite 13.
+![image](../images/spacechange.JPG)
 
 # Portfolio review
-The Finale design is suitable for the intended audience and purpose because it displays my skills, experience and education to potential employers it shows them what I have done and what I can do. one way my portfolio fulfills the intended purposes is with the "animation for the intractable features is a good way of showcasing your coding skills" and because Daine said "very easy to navigate and find what you want to know".
+The Finale design is suitable for the intended audience and purpose because it displays my skills, experience and education to potential employers it shows them what I have done and what I can do. I know my digital portfolio fulfills the intended purposes because in my feedback Lisa said "detailing a lot of your great work and achievements" which tells me that it displays the necessary content.
+
+Another way my portfolio meets the audience needs is because it is accessible in multiple browsers I know it has accomplished this because I have tested my portfolio in Google Chrome and Microsoft Edge this means that potential employers that use different browsers can use my portfolio correctly.
+
+Another way my portfolio meets the audience needs is with its fast and responsive layout my portfolio has this because Daine said "all the links work and it's very eay to navigate and find what you want to know" and aiden said "The layout is very simple and easy to select where I want to go and easy to go back and fourth".
+
+# Evaluation
+## Changes made

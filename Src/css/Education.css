@@ -98,4 +98,15 @@ background-color: #071A21;
     justify-content: center;
     flex-wrap: wrap;
 }
-
+.one1{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.one2{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
